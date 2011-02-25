@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Flickr Over GFW
-Plugin URI: http://cn.programmingnote.com
+Plugin URI: http://cn.programmingnote.com/blog/?p=177
 Description: This plugin can help you link images from flickr.com. It is helpful for people in China (because of the GFW).
 Author: Woody Wang
 Version: 0.1
